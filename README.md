@@ -18,9 +18,14 @@ api keys and your URL.
 
 ....If error occured due to other reason then make sure you have all the necessary dependencies and libraries installed.
 
-tkinter: For GUI development.
-openai: For interaction with the OpenAI GPT-3.5 model.
-gTTS: For converting text to speech.
-playsound: For playing audio.
-speech_recognition: For voice input.
-requests: For making HTTP requests.
+tkinter: For GUI development
+
+openai: For interaction with the OpenAI GPT-3.5 model
+
+gTTS: For converting text to speech
+
+playsound: For playing audio
+
+speech_recognition: For voice input
+
+requests: For making HTTP requests
